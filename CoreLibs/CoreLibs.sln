@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GateKeeper", "GateKeeper\GateKeeper.csproj", "{07A92421-31D5-40EA-838A-C9FE66F4FF88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionsFactories", "OptionsFactories\OptionsFactories.csproj", "{5CE0DED7-6906-4CC8-9AA2-1BED098710FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07A92421-31D5-40EA-838A-C9FE66F4FF88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A92421-31D5-40EA-838A-C9FE66F4FF88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A92421-31D5-40EA-838A-C9FE66F4FF88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A92421-31D5-40EA-838A-C9FE66F4FF88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CE0DED7-6906-4CC8-9AA2-1BED098710FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE0DED7-6906-4CC8-9AA2-1BED098710FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CE0DED7-6906-4CC8-9AA2-1BED098710FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CE0DED7-6906-4CC8-9AA2-1BED098710FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A43447F9-90F9-4A23-8A17-6F878973072D}
+	EndGlobalSection
+EndGlobal
